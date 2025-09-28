@@ -7,7 +7,6 @@
 
 
 
-
 🎬 Movie Review & Rating Platform
 📌 About the Project
 
@@ -38,3 +37,10 @@ OMDB API
 Local Storage
 
 VS Code + Live Server
+
+📂 Project Structure
+movie-review-platform/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
