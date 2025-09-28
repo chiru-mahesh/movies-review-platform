@@ -60,13 +60,14 @@ Get a free OMDB API Key
 
 Run Locally
 
-Clone this repo:
+Clone this repo: 
 
 git clone https://github.com/chiru-mahesh/movies-review-platform.git
-
 
 Open in VS Code
 
 Replace "YOUR_API_KEY" in script.js with your OMDB API key
 
 Right-click index.html → Open with Live Server
+
+🎥 Demo
