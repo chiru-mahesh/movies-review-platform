@@ -71,3 +71,5 @@ Replace "YOUR_API_KEY" in script.js with your OMDB API key
 Right-click index.html → Open with Live Server
 
 🎥 Demo
+
+uploading videos for showing example
