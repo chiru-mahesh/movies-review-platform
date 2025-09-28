@@ -72,6 +72,25 @@ Right-click index.html → Open with Live Server
 
 🎥 Demo
 
-uploading videos for showing example
+* Uploading videos for showing example
 
 https://github.com/user-attachments/assets/7aa4cf8c-543e-44bd-b63d-53a523f0b1ce
+
+
+📌 Future Enhancements
+
+Show multiple search results
+
+Add average ratings
+
+Dark mode UI
+
+Firebase/Backend integration for global reviews
+
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
+📜 License
+
+This project is open-source under the MIT License.
