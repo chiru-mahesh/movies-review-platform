@@ -62,7 +62,7 @@ Run Locally
 
 Clone this repo:
 
-git clone https://github.com/chiru-mahesh/movie-review-platform.git
+git clone https://github.com/chiru-mahesh/movies-review-platform.git
 
 
 Open in VS Code
