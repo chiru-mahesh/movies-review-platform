@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Movie Review & Rating Platform</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>🎬 Movie Review & Rating Platform</h1>
+
+    <div class="search-box">
+      <input id="movieInput" placeholder="Enter movie name (e.g. Inception)" />
+      <button id="searchBtn">Search</button>
+    </div>
+
+    <div id="movieDetails" class="card"></div>
+
+    <div id="reviewsSection" class="card" style="display:none;">
+      <h2>Rate & Review</h2>
+      <label>Rating (1–5)</label>
+      <input id="rating" type="number" min="1" max="5" />
+      <textarea id="comment" placeholder="Write your review..."></textarea>
+      <button id="submitReview">Submit Review</button>
+
+      <h3>All Reviews</h3>
+      <div id="reviewsList"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
