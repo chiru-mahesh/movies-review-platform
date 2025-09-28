@@ -1,4 +1,4 @@
-🎬 movies-review-platform
+                                   🎬 movies review and rating platform
 
 
 
@@ -8,6 +8,7 @@
 
 
 🎬 Movie Review & Rating Platform
+
 📌 About the Project
 
 Briefly explain what the project does — a platform for movie lovers to search movies, view details, and add ratings & reviews.
@@ -26,19 +27,20 @@ Briefly explain what the project does — a platform for movie lovers to search 
 
 🛠️ Built With
 
-HTML5
+* HTML5
 
-CSS3
+* CSS3
 
-JavaScript (Vanilla JS)
+* JavaScript (Vanilla JS)
 
-OMDB API
+* OMDB API
 
-Local Storage
+* Local Storage
 
-VS Code + Live Server
+* VS Code + Live Server
 
 📂 Project Structure
+
 movie-review-platform/
 │── index.html
 │── style.css
